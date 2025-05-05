@@ -19,4 +19,12 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
+2. ⬆️ Pushed 1 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
+3. ⬆️ Pushed 2 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
+4. 🎉 Merged PR [#6](https://github.com/javierhrzgt/cursogit/pull/6) in [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
+5. ⬆️ Pushed 1 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, May 5th, 2025, 8:12:19 PM
+<!--RECENT_ACTIVITY:last_update_end-->
