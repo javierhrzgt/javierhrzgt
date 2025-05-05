@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Other
 
-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/javierhrzgt/javierhrzgt)
+![javierhrzgt's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierhrzgt&theme=shadowblue&show_icons=true)
 
 <!-- 
 
