@@ -18,6 +18,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierhrzgt&layout=compact)
 
 ## :zap: Actividad Reciente
-<!-- Start -->
-
-<!-- End -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
