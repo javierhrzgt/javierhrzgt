@@ -19,12 +19,12 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
-2. ⬆️ Pushed 1 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
-3. ⬆️ Pushed 2 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
-4. 🎉 Merged PR [#6](https://github.com/javierhrzgt/cursogit/pull/6) in [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
-5. ⬆️ Pushed 1 commit(s) to [javierhrzgt/cursogit](https://github.com/javierhrzgt/cursogit)<br>
+1. ⬆️ Pushed 2 commit(s) to [javierhrzgt/nextjs-store](https://github.com/javierhrzgt/nextjs-store)<br>
+2. 🎉 Merged PR [#5](https://github.com/javierhrzgt/nextjs-store/pull/5) in [javierhrzgt/nextjs-store](https://github.com/javierhrzgt/nextjs-store)<br>
+3. 💪 Opened PR [#5](https://github.com/javierhrzgt/nextjs-store/pull/5) in [javierhrzgt/nextjs-store](https://github.com/javierhrzgt/nextjs-store)<br>
+4. ⬆️ Pushed 2 commit(s) to [javierhrzgt/nextjs-store](https://github.com/javierhrzgt/nextjs-store)<br>
+5. 🎉 Merged PR [#4](https://github.com/javierhrzgt/nextjs-store/pull/4) in [javierhrzgt/nextjs-store](https://github.com/javierhrzgt/nextjs-store)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 5th, 2025, 8:14:39 PM
+Last Updated: Sunday, May 11th, 2025, 11:54:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
