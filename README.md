@@ -9,7 +9,7 @@
 
 ## Skills & Technologies
 
-- **Languages**: Python, VBA, JS
+- **Languages**: Python, VBA, JS, CSS, HTML
 - **Other**: Automation Anywhere
 
 ## Other
