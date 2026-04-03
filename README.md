@@ -12,10 +12,6 @@
 - **Languages**: Python, VBA, JS, CSS, HTML
 - **Other**: Automation Anywhere
 
-## Other
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javierhrzgt&layout=compact)
-
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [javierhrzgt/javierhrzgt](https://github.com/javierhrzgt/javierhrzgt)<br>
