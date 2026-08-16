@@ -23,3 +23,8 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, October 25th, 2025, 2:50:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
+
+## 💻 Wakatime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
