@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-Total Time: 55 mins
+Total Time: 1 hr 59 mins
 
-HTML       38 mins               █████████████████▒░░░░░░░   69.96 %
-Markdown   9 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-Git        7 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+HTML   1 hr 15 mins          ███████████████▓░░░░░░░░░   63.14 %
+CSS    30 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+Git    14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
 ```
 
 <!--END_SECTION:waka-->
