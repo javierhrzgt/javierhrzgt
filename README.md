@@ -1,19 +1,32 @@
 <h1 align="center">Hi, I'm Abraham Hernandez 👋</h1>
-<h3 align="center">Workforce Management Analyst turned Full-Stack Developer</h3>
+<h3 align="center">Workforce Management Real Time Analyst → Web Developer & Data Analyst</h3>
 
 <p align="center">
-  I automate planning and reporting workflows, and I'm building web apps with TypeScript, React and Supabase.
+  8 years turning contact-center data into staffing decisions.<br/>
+  Now I build web apps and automate everything repetitive.
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 📍 Guatemala City, Guatemala
-- 💼 Real-Time Workforce Management Analyst: I keep contact-center staffing on target and automate the repetitive parts with VBA, Python and RPA
-- 🌱 Currently learning: full-stack development with TypeScript, React, SQL and Postgres (row-level security included)
-- 💬 Ask me about: workforce management, Excel/VBA automation
-- ⚽ Off the keyboard: amateur soccer and a lot of music
+I've spent 8 years in the contact-center industry and I'm currently a **Workforce Management Real Time Analyst**. I read call volume, AHT and occupancy to adjust the number of agents online and help reduce operating costs.
+
+That work shaped how I approach problems: **automate the repetitive parts**. With VBA, Power Automate and SharePoint I've cut reports down from several minutes to under 5 and brought team communications down to seconds.
+
+For the past year I've been studying web development with React, TypeScript and SQL, and today I'm building **Nudge**, a study planner backed by Supabase (below).
+
+🎯 **Looking for my next step as a Web Developer or Data Analyst**, where I can combine development, operational analysis and automation.
+
+📍 Guatemala City, Guatemala
+
+---
+
+### 💡 What I Bring
+
+- 📊 **Operational analytics:** forecasting-driven decisions on volume, AHT and occupancy in a real-time environment
+- ⚙️ **Automation:** VBA, Power Automate and SharePoint workflows that save hours of manual work
+- 🌐 **Web development:** typed React apps with TypeScript, SQL and Supabase
 
 ---
 
@@ -29,15 +42,23 @@ Turns a task list into a day-by-day calendar of small goals, and tracks progress
 
 ### 🛠️ Tech Stack
 
+**Web**
+
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" alt="Mantine"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
+</p>
+
+**Data & Automation**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL / PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Excel%20%2F%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel and VBA"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
 </p>
 
 ---
@@ -64,8 +85,8 @@ Bash         6 mins                ░░░░░░░░░░░░░░░
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/habraham0413/](https://www.linkedin.com/in/habraham0413/)
-- ✉️ Email: habraham0413@gmail.com
+- 💼 LinkedIn: [habraham0413](https://www.linkedin.com/in/habraham0413/)
+- ✉️ Email: [habraham0413@gmail.com](mailto:habraham0413@gmail.com)
 
 <p align="center">
   <em>Thanks for stopping by ⭐</em>
