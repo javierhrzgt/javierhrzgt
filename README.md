@@ -68,15 +68,15 @@ Turns a task list into a day-by-day calendar of small goals, and tracks progress
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Total Time: 35 hrs 43 mins
+Total Time: 30 hrs 2 mins
 
-TypeScript   34 hrs 3 mins         ███████████████████████▓░   95.31 %
-Markdown     40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-SQL          35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON         10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Bash         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript   28 hrs 24 mins        ███████████████████████▓░   94.56 %
+Markdown     40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+SQL          35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JSON         8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Bash         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
