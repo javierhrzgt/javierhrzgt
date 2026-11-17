@@ -68,12 +68,12 @@ Turns a task list into a day-by-day calendar of small goals, and tracks progress
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2026 - To: 16 November 2026
+From: 10 November 2026 - To: 17 November 2026
 
-Total Time: 7 hrs 10 mins
+Total Time: 6 hrs 54 mins
 
-TypeScript   7 hrs 7 mins          ████████████████████████▓   99.30 %
-JSON         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TypeScript   6 hrs 51 mins         ████████████████████████▓   99.27 %
+JSON         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
